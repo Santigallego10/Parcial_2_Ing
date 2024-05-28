@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Parcial_2.iml" filepath="$PROJECT_DIR$/Parcial_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appointment-service/appointment-service.iml" filepath="$PROJECT_DIR$/appointment-service/appointment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/communication-service/communication-service.iml" filepath="$PROJECT_DIR$/communication-service/communication-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ehr-service/ehr-service.iml" filepath="$PROJECT_DIR$/ehr-service/ehr-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-monitoring-service/iot-monitoring-service.iml" filepath="$PROJECT_DIR$/iot-monitoring-service/iot-monitoring-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medication-service/medication-service.iml" filepath="$PROJECT_DIR$/medication-service/medication-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/report-service/report-service.iml" filepath="$PROJECT_DIR$/report-service/report-service.iml" />
     </modules>
   </component>
 </project>
